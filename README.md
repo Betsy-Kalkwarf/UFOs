@@ -6,7 +6,7 @@ The screenshot below shows how all the data is displayed in a table. You can scr
 
 ![alt text](https://github.com/Betsy-Kalkwarf/UFOs/blob/main/images/website%20before%20filter.png)
 
-Looking at all the data at once may be overwhelming. Therefore, I created ways for you to search through the different UFO sightings. You can search by date of the sighting, city, state, country, or shape of the UFO. THe screenshot below shows all the UFO sightings that were reported to be circular in shape.
+Looking at all the data at once may be overwhelming. Therefore, I created ways for you to search through the different UFO sightings. You can search by date of the sighting, city, state, country, or shape of the UFO. The screenshot below shows all the UFO sightings that were reported to be circular in shape.
 ![alt text](https://github.com/Betsy-Kalkwarf/UFOs/blob/main/images/filter_by_shape.png)
 
 If you want to see all the sightings that happened in your home state of Oregon, you just input “or” in the state filter. The results are shown below.
